@@ -1,9 +1,9 @@
 %global tl_name cmgraded
-%global tl_revision 79823
+%global tl_revision 79867
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	1.0.0
+Version:	1.0.1
 Release:	%{tl_revision}.1
 Summary:	Classic LaTeX look and feel in different grades of blackness
 Group:		Publishing
